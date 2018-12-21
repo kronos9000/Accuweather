@@ -1,0 +1,32 @@
+2018/12/07 13:36:04      Activity: Searched Results for "ny" Inserted | ZipCode: 11375|City: forest hills|State: ny|Location Key: 2102616|Current Temp: 38|Real Feel: 28|Condition: Mostly sunny
+2018/12/07 13:36:36      Activity: Searched Results for "ca" Inserted | ZipCode: 94103|City: san francisco|State: ca|Location Key: 347629|Current Temp: 53|Real Feel: 58|Condition: Mostly cloudy
+2018/12/07 13:36:45      Activity: Searched Results for "ca" Inserted | ZipCode: 90022|City: los angeles|State: ca|Location Key: 332110|Current Temp: 61|Real Feel: 66|Condition: Sunny
+2018/12/07 13:37:12      Activity: Searched Results for "ca" Inserted | ZipCode: 92101|City: san diego|State: ca|Location Key: 347628|Current Temp: 66|Real Feel: 68|Condition: Mostly sunny
+2018/12/07 13:37:54      Activity: Searched Results for "or" Inserted | ZipCode: 97209|City: portland|State: or|Location Key: 350473|Current Temp: 38|Real Feel: 36|Condition: Mostly cloudy
+2018/12/09 16:48:46      Activity: Inserting Backup Data  | ZipCode: 90022|City: los angeles|State: ca|Location Key: 332110|Current Temp: 61|Real Feel: 66|Condition: Sunny
+2018/12/09 16:48:46      Activity: Inserting Backup Data  | ZipCode: 94103|City: san francisco|State: ca|Location Key: 347629|Current Temp: 53|Real Feel: 58|Condition: Mostly cloudy
+2018/12/09 16:48:47      Activity: Inserting Backup Data  | ZipCode: 97209|City: portland|State: or|Location Key: 350473|Current Temp: 38|Real Feel: 36|Condition: Mostly cloudy
+2018/12/09 16:48:47      Activity: Inserting Backup Data  | ZipCode: 92101|City: san diego|State: ca|Location Key: 347628|Current Temp: 66|Real Feel: 68|Condition: Mostly sunny
+2018/12/09 16:48:47      Activity: Inserting Backup Data  | ZipCode: 11375|City: forest hills|State: ny|Location Key: 2102616|Current Temp: 38|Real Feel: 28|Condition: Mostly sunny
+2018/12/09 17:07:44      Activity: Searched Results for "ny " Inserted | ZipCode: 11221|City: bushwick|State: ny |Location Key: 2624674|Current Temp: 36|Real Feel: 30|Condition: Mostly cloudy
+2018/12/09 17:16:51      Activity: Item Added By Admin | ZipCode: 11111|City: blah|State: ar|Location Key: 098765|Current Temp: 45|Real Feel: 34|Condition: windy
+2018/12/09 17:17:42      Activity: Item Edited by Admin | ZipCode: 11111|City: blah|State: ar|Location Key: 098765|Current Temp: 45|Real Feel: 34|Condition: windy
+2018/12/09 17:17:57      Activity: Item Edited by Admin | ZipCode: 11111|City: blah blah|State: ar|Location Key: 098765|Current Temp: 45|Real Feel: 34|Condition: windy
+2018/12/09 17:20:38      Activity: Item Removed by Admin | ZipCode: 11221|City: bushwick|State: ny |Location Key: 2624674|Current Temp: 36|Real Feel: 30|Condition: Mostly cloudy
+2018/12/10 13:25:43      Activity: Inserting Backup Data  | ZipCode: 90022|City: los angeles|State: ca|Location Key: 332110|Current Temp: 61|Real Feel: 66|Condition: Sunny
+2018/12/10 13:25:44      Activity: Inserting Backup Data  | ZipCode: 94103|City: san francisco|State: ca|Location Key: 347629|Current Temp: 53|Real Feel: 58|Condition: Mostly cloudy
+2018/12/10 13:25:44      Activity: Inserting Backup Data  | ZipCode: 97209|City: portland|State: or|Location Key: 350473|Current Temp: 38|Real Feel: 36|Condition: Mostly cloudy
+2018/12/10 13:25:44      Activity: Inserting Backup Data  | ZipCode: 92101|City: san diego|State: ca|Location Key: 347628|Current Temp: 66|Real Feel: 68|Condition: Mostly sunny
+2018/12/10 13:25:44      Activity: Inserting Backup Data  | ZipCode: 11111|City: blah blah|State: ar|Location Key: 098765|Current Temp: 45|Real Feel: 34|Condition: windy
+2018/12/10 13:25:44      Activity: Inserting Backup Data  | ZipCode: 11375|City: forest hills|State: ny|Location Key: 2102616|Current Temp: 38|Real Feel: 28|Condition: Mostly sunny
+2018/12/10 13:26:07      Activity: Searched Results for "ny" Inserted | ZipCode: 11426|City: bellerose|State: ny|Location Key: 2627443|Current Temp: 39|Real Feel: 32|Condition: Mostly sunny
+2018/12/10 13:27:35      Activity: Item Added By Admin | ZipCode: 11366|City: fresh meadows|State: ny|Location Key: 12345678|Current Temp: 35|Real Feel: 29|Condition: breezy
+2018/12/10 19:39:04      Activity: Inserting Backup Data  | ZipCode: 90022|City: los angeles|State: ca|Location Key: 332110|Current Temp: 61|Real Feel: 66|Condition: Sunny
+2018/12/10 19:39:04      Activity: Inserting Backup Data  | ZipCode: 94103|City: san francisco|State: ca|Location Key: 347629|Current Temp: 53|Real Feel: 58|Condition: Mostly cloudy
+2018/12/10 19:39:04      Activity: Inserting Backup Data  | ZipCode: 97209|City: portland|State: or|Location Key: 350473|Current Temp: 38|Real Feel: 36|Condition: Mostly cloudy
+2018/12/10 19:39:04      Activity: Inserting Backup Data  | ZipCode: 11426|City: bellerose|State: ny|Location Key: 2627443|Current Temp: 39|Real Feel: 32|Condition: Mostly sunny
+2018/12/10 19:39:04      Activity: Inserting Backup Data  | ZipCode: 11366|City: fresh meadows|State: ny|Location Key: 12345678|Current Temp: 35|Real Feel: 29|Condition: breezy
+2018/12/10 19:39:04      Activity: Inserting Backup Data  | ZipCode: 92101|City: san diego|State: ca|Location Key: 347628|Current Temp: 66|Real Feel: 68|Condition: Mostly sunny
+2018/12/10 19:39:04      Activity: Inserting Backup Data  | ZipCode: 11375|City: forest hills|State: ny|Location Key: 2102616|Current Temp: 38|Real Feel: 28|Condition: Mostly sunny
+2018/12/10 19:39:04      Activity: Inserting Backup Data  | ZipCode: 11111|City: blah blah|State: ar|Location Key: 098765|Current Temp: 45|Real Feel: 34|Condition: windy
+2018/12/10 19:42:13      Activity: Searched Results for "co" Inserted | ZipCode: 80203|City: denver|State: co|Location Key: 347810|Current Temp: 47|Real Feel: 48|Condition: Mostly cloudy
